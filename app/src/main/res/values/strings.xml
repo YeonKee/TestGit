@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">TestGit</string>
     <string name="app_name1">TestGit</string>
-    <string name="app_name2">TestGit</string>
-    <string name="app_name3">TestGit</string>
+    <string name="app_name4">TestGit</string>
 </resources>
